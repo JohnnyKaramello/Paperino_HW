@@ -585,9 +585,9 @@ F 3 "" H 3650 5200 50  0000 C CNN
 	1    3650 5200
 	1    0    0    -1  
 $EndComp
-Text Label 2100 4950 0    60   ~ 0
-SPI_MOSI
 Text Label 2100 5050 0    60   ~ 0
+SPI_MOSI
+Text Label 2100 4950 0    60   ~ 0
 SPI_MISO
 Text Label 2100 5150 0    60   ~ 0
 SPI_CLK
