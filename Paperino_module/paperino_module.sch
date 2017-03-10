@@ -29,7 +29,6 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:paperino
-LIBS:paperino-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -968,30 +967,4 @@ Connection ~ 6500 4950
 Wire Wire Line
 	6500 3850 6500 4300
 Connection ~ 6500 3950
-$Comp
-L Fiducial Fid1
-U 1 1 58B53A2F
-P 6300 7450
-F 0 "Fid1" H 6300 7250 60  0000 C CNN
-F 1 "Fiducial" H 6300 7700 60  0001 C CNN
-F 2 "Paperino:Fiducial" H 6300 7450 60  0001 C CNN
-F 3 "" H 6300 7450 60  0001 C CNN
-F 4 "N/A" H 6300 7450 60  0001 C CNN "MFG Name"
-F 5 "N/A" H 6300 7450 60  0001 C CNN "MFG Part Num"
-	1    6300 7450
-	1    0    0    -1  
-$EndComp
-$Comp
-L Fiducial Fid2
-U 1 1 58B53F28
-P 6700 7450
-F 0 "Fid2" H 6700 7250 60  0000 C CNN
-F 1 "Fiducial" H 6700 7700 60  0001 C CNN
-F 2 "Paperino:Fiducial" H 6700 7450 60  0001 C CNN
-F 3 "" H 6700 7450 60  0001 C CNN
-F 4 "N/A" H 6700 7450 60  0001 C CNN "MFG Name"
-F 5 "N/A" H 6700 7450 60  0001 C CNN "MFG Part Num"
-	1    6700 7450
-	1    0    0    -1  
-$EndComp
 $EndSCHEMATC
