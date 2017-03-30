@@ -13,3 +13,5 @@
 .dsn
 
 Paperino_ModuleS\.dxf
+Paperino_module/drawing/*
+Paperino_module/Gerbers/*
