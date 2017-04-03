@@ -256,4 +256,8 @@ F 3 "" H 6700 7500 60  0001 C CNN
 $EndComp
 Text Notes 5850 7350 0    60   ~ 0
 Mounting holes
+Text Label 5050 4300 0    60   ~ 0
+INT2
+Wire Wire Line
+	5050 4300 4950 4300
 $EndSCHEMATC
