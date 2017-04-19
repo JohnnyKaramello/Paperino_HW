@@ -16,3 +16,5 @@ Paperino_ModuleS\.dxf
 Paperino_module/drawing/*
 Paperino_module/Gerbers/*
 Paperino_module/module_panel\.kicad_pcb
+
+Paperino_module/module_panel\.pro
