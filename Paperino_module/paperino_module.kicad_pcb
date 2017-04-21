@@ -1081,7 +1081,7 @@
   (segment (start 135 99.8) (end 135 100.8) (width 0.3) (layer F.Cu) (net 2) (tstamp 58B3F849))
   (via (at 135 100.8) (size 0.6) (drill 0.3) (layers F.Cu B.Cu) (net 2))
   (segment (start 135.3 98.195) (end 135.3 99.5) (width 0.3) (layer F.Cu) (net 2) (status 10))
-  (via (at 128.5 105.2) (size 0.6) (drill 0.25) (layers F.Cu B.Cu) (net 2))
+  (via (at 128.5 105.2) (size 0.6) (drill 0.3) (layers F.Cu B.Cu) (net 2))
   (segment (start 131.22 105.2) (end 128.5 105.2) (width 0.3) (layer B.Cu) (net 2) (tstamp 58EC880F))
   (segment (start 135 101.42) (end 131.22 105.2) (width 0.3) (layer B.Cu) (net 2) (tstamp 58EC87F8))
   (segment (start 138.704 91.7) (end 138.704 92.426) (width 0.2) (layer F.Cu) (net 2))
