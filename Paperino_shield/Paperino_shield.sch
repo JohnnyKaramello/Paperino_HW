@@ -28,7 +28,6 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:paperino
 LIBS:Paperino_shield-cache
 EELAYER 25 0
 EELAYER END
@@ -39,7 +38,7 @@ Title "Paperino shield"
 Date ""
 Rev "0"
 Comp ""
-Comment1 ""
+Comment1 "licensed under CC-BY-4.0"
 Comment2 ""
 Comment3 ""
 Comment4 ""
