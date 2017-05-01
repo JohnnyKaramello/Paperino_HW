@@ -28,7 +28,6 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:paperino
 LIBS:74xgxx
 LIBS:ac-dc
 LIBS:actel
@@ -101,7 +100,7 @@ Title "Paperino Test Rig"
 Date "2017-04-24"
 Rev ""
 Comp ""
-Comment1 ""
+Comment1 "licensed under CC-BY-4.0"
 Comment2 ""
 Comment3 ""
 Comment4 ""
